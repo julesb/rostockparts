@@ -1,10 +1,11 @@
 # rostockparts
 
-A pen/tool holder for the Rostock MAX v2 3D printer
+Custom parts for the Rostock MAX v2 3D printer.
 
-http://www.thingiverse.com/thing:565261
+The project currently contains:
 
-## Usage
+* Pen/tool holder - http://www.thingiverse.com/thing:565261
+
 
 
 ## License
